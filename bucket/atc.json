@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0-rc.6",
+    "description": "Fast AtCoder workflow from your terminal.",
+    "homepage": "https://github.com/toppoun/atc-rs",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/toppoun/atc-rs/releases/download/v0.1.0-rc.6/atc-v0.1.0-rc.6-windows-x86_64.zip",
+            "hash": "e94fadc3ec67e851e831f13b1b57bbf86101e43d6d834189e8b40f855e9773af"
+        }
+    },
+    "bin": "atc.exe"
+}
