@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/toppoun/atc-rs/releases/download/v0.1.0-rc.7/atc-v0.1.0-rc.8-windows-x86_64.zip",
+      "url": "https://github.com/toppoun/atc-rs/releases/download/v0.1.0-rc.8/atc-v0.1.0-rc.8-windows-x86_64.zip",
       "hash": "a71a042ad846645406c4a56dc7917c60243c3304b54cf501a026957b66c67cf5"
     }
   },
